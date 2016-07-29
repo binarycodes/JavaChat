@@ -1,0 +1,8 @@
+*.pdf
+*.class
+.classpath
+.project
+.settings
+*/target/*
+.metadata
+*.log
